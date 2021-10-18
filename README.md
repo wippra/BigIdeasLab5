@@ -9,6 +9,10 @@ The repository for Big Ideas in Computing labs 5 and 6.
 
 ---
 
+## Description
+
+This program takes in a user's name and an integer as input, and outputs whether the amount of characters in the user's name is greater than, less than, or equal to the integer the user provided.
+
 ## Requirements
 
 [Python 3.6+](https://www.python.org/downloads/)
