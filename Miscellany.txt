@@ -1,0 +1,1 @@
+Our group chose the Apache license because it is a permissive license that does not require a derivative work of the software, or modifications, to be distributed using the same license. For our program, it fits well with the program and does not create concern with royalties. We added the code of conduct because it's nice to be nice and keep everything civil.
