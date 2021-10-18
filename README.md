@@ -32,3 +32,8 @@ Hi John Smith!
 Now give me an Integer! 15
 Your name has 10 characters, which is less than your given integer's value.
 ```
+
+## Contributors
+- Dylan Jenny
+- Adam Wipprecht
+- Roy Wu
